@@ -1,0 +1,9 @@
+---
+- name: Install Required Packages
+  yum:
+    name: "{{ item }}"
+    state: latest
+  with_items:
+    - epel-release
+    - nodejs
+    - npm

@@ -1,0 +1,18 @@
+galaxy_info:
+  author: BondAnthony
+  description: Ansible Nodejs install role
+  company: toilOps.com
+  license: license (BSD, MIT)
+  min_ansible_version: 2.4
+  platforms:
+   - name: EL
+     versions:
+     - 6
+     - 7
+
+  galaxy_tags:
+    - nodejs
+    - digitalocean
+    - sysadmin
+    - cloud
+dependencies: []
