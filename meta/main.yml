@@ -2,7 +2,7 @@ galaxy_info:
   author: BondAnthony
   description: Ansible Nodejs install role
   company: toilOps.com
-  license: license (BSD, MIT)
+  license: license (MIT)
   min_ansible_version: 2.4
   platforms:
    - name: EL
