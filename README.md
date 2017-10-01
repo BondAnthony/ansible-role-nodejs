@@ -1,6 +1,8 @@
 Ansible Role Nodejs
 =========
 
+[![Build Status](https://travis-ci.org/toilops/ansible-role-nodejs.svg?branch=master)](https://travis-ci.org/toilops/ansible-role-nodejs)
+
 Ansible role to install and configure epel-release, nodejs and npm.
 
 Requirements
