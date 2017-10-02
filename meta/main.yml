@@ -15,4 +15,5 @@ galaxy_info:
     - digitalocean
     - sysadmin
     - cloud
-dependencies: []
+dependencies:
+  - { role: toilops.config-epel-repo }
