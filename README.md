@@ -1,7 +1,7 @@
 Ansible Role Nodejs
 =========
 
-[![Build Status](https://travis-ci.org/toilops/ansible-role-nodejs.svg?branch=master)](https://travis-ci.org/toilops/ansible-role-nodejs)
+[![Build Status](https://travis-ci.org/toilops/ansible-role-install-nodejs.svg?branch=master)](https://travis-ci.org/toilops/ansible-role-install-nodejs)
 
 Ansible role to install and configure nodejs and npm.
 
